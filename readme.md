@@ -1,3 +1,3 @@
-# Espetinho Minas
+# Jardinagem
 
-catálogo de espetinhos de um food druck
+catálogo de serviços de Jardinagem
